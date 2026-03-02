@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </div>
 
-### 🌑 The Personal
+### 🌑 The Persona
 A 5th-semester **Software Engineering** student at UNIPI who operates at the intersection of logical architecture and visual storytelling. With a background in high-discipline environments, I bring a unique "grit" to every line of code and every frame of design.
 
 - 🔭 **In Progress:** Crafting a high-performance [Personal Portfolio](https://github.com/).
@@ -31,9 +31,9 @@ A 5th-semester **Software Engineering** student at UNIPI who operates at the int
   
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=58a6ff)](https://instagram.com/YOUR_INSTAGRAM)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=58a6ff)](https://YOUR_PORTFOLIO_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhamadluthfian)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
 
 </div>
 
