@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </div>
 
-### 🌑 The Persona
+### 🌑 The Personal
 A 5th-semester **Software Engineering** student at UNIPI who operates at the intersection of logical architecture and visual storytelling. With a background in high-discipline environments, I bring a unique "grit" to every line of code and every frame of design.
 
 - 🔭 **In Progress:** Crafting a high-performance [Personal Portfolio](https://github.com/).
@@ -24,19 +24,6 @@ A 5th-semester **Software Engineering** student at UNIPI who operates at the int
   <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,git,github&theme=dark" /><br>
   <img src="https://skillicons.dev/icons?i=figma,ai,ae,pr,ps&theme=dark" />
 </div>
-
----
-
-### 📊 Engineering Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&bg_color=0D1117&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&title_color=58a6ff&text_color=ffffff&bg_color=0D1117&hide_border=true" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&background=0D1117&border=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff" width="94%" />
-</p>
 
 ---
 
