@@ -38,11 +38,3 @@ A 5th-semester **Software Engineering** student at UNIPI who operates at the int
 </div>
 
 <br />
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Simplicity%20is%20the%20ultimate%20sophistication.&author=Leonardo%20da%20Vinci" />
-</div>
-
-<p align="right">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="30%" />
-</p>
